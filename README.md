@@ -1,1 +1,1 @@
-# unsubscribe-all-youtube-channels
+# Unsubscribe All Youtube Channels at Once
